@@ -1,5 +1,5 @@
-# MSLT for Exposure Correction (mindspore实现)
-
+# MSLT for Exposure Correction
+WACV 2024 (Mindspore implementation of "4K-Resolution Photo Exposure Correction at 125 FPS with ~ 8K Parameters") [[arxiv](https://arxiv.org/abs/2311.08759)]
 ## 运行环境
 启智平台镜像mindspore2.0.0_cann6.3_notebook（NPU: 1*Ascend 910 32G）
 
